@@ -34,14 +34,15 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
   <br>
   <a href="mailto:dltmddnr7236@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dltmddnr7236@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-  <br><br>
+</div>
 
-  <!-- ✅ 방문자 수 뱃지 (정상 작동) -->
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsw7236%2Flsw7236&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
-  </a>
+<!-- 📈 GitHub 활동 뱃지 대체 -->
+<div align="left">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥 GitHub Streak Stats </h2>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lsw7236&theme=default" />
 </div>
 
 <!-- 📊 GitHub 통계 -->
