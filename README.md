@@ -1,9 +1,9 @@
-<!-- 상단 배너 -->
+<!-- 👋 상단 인사 배너 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome👋%20Seunguk%20GitHub&animation=&fontColor=000000&fontSize=50" />
 </div>
 
-<!-- 자기소개 -->
+<!-- 🚧 자기소개 -->
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚧 Under Development: Me </h2>  
   <div style="font-weight: 700; font-size: 15px; color: #282d33;">
@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<!-- 기술 스택 -->
+<!-- 🛠️ 기술 스택 -->
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
   <br>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
-<!-- 연락처 -->
+<!-- 🧑‍💻 연락처 -->
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
   <br>
@@ -37,13 +37,14 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dltmddnr7236@gmail.com">
   </a>
   <br><br>
-  <!-- 방문자 수 뱃지 (수정 완료) -->
+
+  <!-- ✅ 방문자 수 뱃지 (정상 작동) -->
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsw7236%2Flsw7236&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
   </a>
 </div>
 
-<!-- 깃허브 통계 -->
+<!-- 📊 GitHub 통계 -->
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <br>
